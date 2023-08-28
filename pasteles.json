@@ -1,0 +1,28 @@
+{
+    "imagenes": [
+        {
+            "id": 1,
+            "tipo": "Chocotorta",
+            "precio": 1500,
+            "imagen": "multimedia/chocotorta.jpg"
+        },
+        {
+            "id": 2,
+            "tipo": "Lemon Pie",
+            "precio": 1600,
+            "imagen": "multimedia/imaglemonpie.jpeg"
+        },
+        {
+            "id": 3,
+            "tipo": "Selva Negra",
+            "precio": 1800,
+            "imagen": "multimedia/selvanegra.jpg"
+        },
+        {
+            "id": 4,
+            "tipo": "Torta Rogel",
+            "precio": 1700,
+            "imagen": "multimedia/tortarogel.jpeg"
+        }
+    ]
+}
